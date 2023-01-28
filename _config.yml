@@ -1,8 +1,0 @@
-gem 'jekyll-redirect-from'
-
-plugins:
-  - jekyll-redirect-from
-
-redirect_from:
-  - https://www.aayushmehta.com/
-  - https://www.aayushmehta.com
